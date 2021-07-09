@@ -1,2 +1,2 @@
 # Deep-Learning
-My deep learning codes
+My deep learning experiments
